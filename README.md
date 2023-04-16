@@ -2,7 +2,7 @@
 
 I'm Marc Velasquez and I'm a wannabe software engineer and game developer.
 
-- I'm currently on a video game called Project re:Corruption, coming to [Itch.io](itch.io)...at some point in the future.
+- I'm currently on a video game called Project re:Corruption, coming to [Itch.io](https://itch.io)...at some point in the future.
 - I'm also working on some applications based on smart agriculture and health informatics.
 - Currently learning C#, Java and Rust (and re-learning Python and C++).
 - You can reach me on [Twitter](twitter.com/marccodesstuff).
