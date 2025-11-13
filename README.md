@@ -11,9 +11,7 @@ I hold certifications in Microsoft Azure and Oracle Cloud Infrastructure, ensuri
 When I'm not coding, you can find me:
 
 - Exploring advanced Generative AI and Diffusion Model pipelines.
-
 - Deep-diving into C++ to modify source codes for multiple systems.
-
 - Obsessing over DevOps practices for seamless cloud deployment.
 
 Field of Focus | Description |
