@@ -69,7 +69,11 @@ Metrics showcasing dedication to coding and open-source contributions.
 
 ## 🎓 Certifications
 
-Microsoft Certified: Azure Fundamentals, Microsoft Certified: Azure AI Fundamentals, Microsoft Certified: Azure Data Fundamentals, OCI 2025 AI Foundations Associate, OCI 2025 Generative AI Professional
+- Microsoft Certified: Azure Fundamentals
+- Microsoft Certified: Azure AI Fundamentals
+- Microsoft Certified: Azure Data Fundamentals
+- OCI 2025 AI Foundations Associate
+- OCI 2025 Generative AI Professional
 
 ## 📬 Get In Touch
 
