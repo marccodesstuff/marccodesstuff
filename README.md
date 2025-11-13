@@ -56,7 +56,7 @@ This is my toolbox for building and deploying production-grade AI and web applic
 
 Metrics showcasing dedication to coding and open-source contributions.
 
-[![Marc's GitHub stats](https://github-readme-stats.vercel.app/api?username=marccodesstuff&show_icons=true)](https://github.com/marccodesstuff/github-readme-stats)
+[![Marc's GitHub stats](https://github-readme-stats.vercel.app/api?username=marccodesstuff&show_icons=true&theme=radical)](https://github.com/marccodesstuff/github-readme-stats)
 
 ## 🎓 Certifications
 
