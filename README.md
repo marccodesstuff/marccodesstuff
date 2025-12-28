@@ -17,7 +17,7 @@ When I'm not coding, you can find me:
 Field of Focus | Description |
 | ------------ | ----------- |
 | AI/ML Development | Building and deploying deep learning models (YOLO, ensemble methods) for complex data tasks. |
-| Cloud Architecture | Launching and scaling applications on AWS and Azure, focusing on serverless and robust performance. |
+| Cloud Architecture | Launching and scaling applications on AWS (LocalStack) and Azure, focusing on serverless and robust performance. |
 | Full-Stack Engineering | Developing reliable web applications using Next.js and Express.js for data management. |
 
 ## 💻 Core Technology Stack
